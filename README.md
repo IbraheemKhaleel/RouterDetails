@@ -6,6 +6,7 @@ Installation:
 	activate virtual environment:
 		source {venv name}/bin/activate
 	install requirements.txt file
+		cd routerdetails
 		pip install -r requirements.txt
 	
 	run the server
